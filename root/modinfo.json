@@ -4,7 +4,7 @@
     "modid": "increasedcropseedsyield",
     "description": "Increases the yield of seeds from crops",
     "authors": ["Mani Gillier"],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "dependency": {},
     "website": ""
 }
