@@ -4,7 +4,6 @@
     "modid": "increasedcropseedsyield",
     "description": "Increases the yield of seeds from crops",
     "authors": ["Mani Gillier"],
-    "version": "0.1.2",
-    "dependency": {},
-    "website": ""
+    "version": "0.1.3",
+    "website": "https://github.com/ManiGillier/VSMOD_increased-crop-seed-drops"
 }
