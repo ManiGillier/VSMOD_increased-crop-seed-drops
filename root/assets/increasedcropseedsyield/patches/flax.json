@@ -1,3 +1,0 @@
-[
-    { "file": "game:blocktypes/plant/crop/flax", "op": "replace", "path": "/dropsByType/*-9/0/quantity/avg", "value": 2.4 }
-]
